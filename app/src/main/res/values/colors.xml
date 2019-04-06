@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A7AFF</color> <!-- blue -->
+    <color name="colorPrimaryDark">#0B66D3</color> <!-- dark blue -->
+    <color name="colorAccent">#B7D8FF</color> <!-- light blue -->
+
+    <color name="white">#ffffff</color> <!-- pure white -->
+    <color name="black">#000000</color> <!-- pure black -->
+    <color name="smooth_grey_verylight">#FBFBFB</color> <!-- very light grey, suitable for background -->
+</resources>
