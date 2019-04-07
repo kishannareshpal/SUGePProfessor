@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
+        tools:context=".activities.IntroActivity">
 
     <TextView
             android:layout_width="0dp"
@@ -52,16 +52,6 @@
             app:layout_constraintDimensionRatio=""
             app:cornerRadius="8dp" android:fontFamily="@font/gilroy_extrabold"
             app:backgroundTint="@color/colorPrimary" android:padding="18dp"/>
-    <com.google.android.material.textfield.TextInputLayout
-            android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="parent"
-            tools:layout_editor_absoluteX="8dp" app:layout_constraintBottom_toBottomOf="parent"
-            android:layout_width="0dp">
-
-        <com.google.android.material.textfield.TextInputEditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="hint"/>
-    </com.google.android.material.textfield.TextInputLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,4 +1,4 @@
-package kishannareshpal.com.sugepprofessor
+package com.kishannareshpal.sugepprofessor
 
 import org.junit.Test
 
