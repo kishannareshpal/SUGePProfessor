@@ -6,5 +6,7 @@
 
     <color name="white">#ffffff</color> <!-- pure white -->
     <color name="black">#000000</color> <!-- pure black -->
+    <color name="dark_grey">#787878</color> <!-- pure black -->
+    <color name="blue_verylight">#E0EBFF</color>
     <color name="smooth_grey_verylight">#FBFBFB</color> <!-- very light grey, suitable for background -->
 </resources>

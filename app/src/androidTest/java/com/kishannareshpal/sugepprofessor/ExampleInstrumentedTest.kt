@@ -1,4 +1,4 @@
-package kishannareshpal.com.sugepprofessor
+package com.kishannareshpal.sugepprofessor
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
